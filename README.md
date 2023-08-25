@@ -42,13 +42,13 @@
 
 ## About The Project
 
-[![Pokemon Game Screenshot][map-screenshot]]
+![Pokemon Game Screenshot](https://github.com/raystrife/pokemon-game/blob/main/images/map-image.PNG)
 
 This is a simple game that's inspired by Pokemon games and made by using HTML, CSS, and JS. As such, this game is playable in any browsers. 
 
 The game is consisted of both the map exploration stage and the battle scene. In the map exploration stage, the playable character will be able to explore the surrounding environment until they hit the map boundaries. If the character walks on the grassy area or the wharf, then a random number generator will be triggered to start a random enemy encounter. This will transation the player to the battle scene where the player's monster will be able to fight against the computer-controlled enemy monster.
 
-[![Pokemon Battle Screenshot][battle-screenshot]]
+![Pokemon Battle Screenshot](https://github.com/raystrife/pokemon-game/blob/main/images/battle-image.PNG)
 
 Currently, the game doesn't have any objective that will end the gameplay. It will be added in the future.
 
@@ -95,6 +95,8 @@ Project Link: [https://github.com/raystrife/pokemon-game](https://github.com/ray
 
 This game is made by following the tutorial made by [Chris Courses](https://www.youtube.com/@ChrisCourses)
 
+The map assets are made by [Cyporkador](https://cypor.itch.io/12x12-rpg-tileset)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -103,5 +105,3 @@ This game is made by following the tutorial made by [Chris Courses](https://www.
 [issues-url]: https://github.com/raystrife/pokemon-game/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/ray-nugroho/
-[map-screenshot]: images/map-image.png
-[battle-screenshot]: images/battle-image.png
